@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "466020198493",
+    "project_id": "business-card-auth",
+    "storage_bucket": "business-card-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466020198493:android:c74e740285b9b63a4985b4",
+        "android_client_info": {
+          "package_name": "com.example.business_card_api"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466020198493-03cl1dl1f87bng0i1uf2knggflf9el9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAulJwec521oGElBdkHnRk4lXH7keZJHF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466020198493-03cl1dl1f87bng0i1uf2knggflf9el9d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "466020198493-2dn1arkr9pk9e528oeukcp13l9rh4t1j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.businessCardApi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
